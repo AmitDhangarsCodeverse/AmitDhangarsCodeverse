@@ -29,6 +29,7 @@ I have experience working with the following languages and tools:
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238B5D97.svg?style=flat&logo=bootstrap&logoColor=white)  
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
 - ![Sass](https://img.shields.io/badge/Sass-%23C69B7B.svg?style=flat&logo=sass&logoColor=white)
+- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 
 ### Soft Skills
 
