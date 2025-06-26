@@ -57,7 +57,7 @@ In addition to my technical skills, I believe that soft skills are essential for
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/amit-dhangar-6b05972a6]
 - 📧 Email: [amitdhanagr531@gmail.com]
-- 🌍 Website/Portfolio: [Available soon]
+- 🌍 Website/Portfolio: [visit](https://amitdhangarscodeverse.github.io/Portfolio-2.0/)]
 
 ## Feel free to check out my repositories and feel free to collaborate! 🚀
 
