@@ -30,6 +30,8 @@ I have experience working with the following languages and tools:
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
 - ![Sass](https://img.shields.io/badge/Sass-%23C69B7B.svg?style=flat&logo=sass&logoColor=white)
 - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+- [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593d88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+
 
 ### Soft Skills
 
